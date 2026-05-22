@@ -1,8 +1,8 @@
 <div align="center">
 
-# Pratyush Pulak Nishank 👨‍💻
+# Pratyush Pulak Nishank 
 
-### AI • ML • LLM • Full-Stack Developer 🚀
+### AI • ML • Full-Stack Developer 
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=C9A227&center=true&vCenter=true&width=500&lines=Data+Science+Student;AI+%26+Machine+Learning;Full-Stack+Developer;Building+with+LLMs+%26+Automation;Always+Learning+Something+New" />
 
